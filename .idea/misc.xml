@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face10.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face11.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face12.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face2.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face3.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face4.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face5.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face6.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face7.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face8.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/drawable/ic_face9.xml" value="0.290625" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Sahil/StudioProjects/MemoryGame/app/src/main/res/layout/memory_card.xml" value="0.2563405797101449" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

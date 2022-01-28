@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="Pairs">Pairs: 0/4</string>
+    <string name="Moves">Moves: 0</string>
+</resources>
